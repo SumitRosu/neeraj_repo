@@ -8,4 +8,10 @@ rgs = {
         location = "eastus"
     }
 
+
+rg3 = {
+        name = "Human-Resources-qa"
+        location = "eastus"
+    }
+
 }
